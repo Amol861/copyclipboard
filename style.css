@@ -1,16 +1,10 @@
 body {
-    background: rgb(95, 91, 187);
-    background: linear-gradient(
-      90deg,
-    
-      rgb(224, 231, 235) 0%,
-      rgb(132, 73, 39) 35%,
-      rgb(71, 110, 226) 100%
-    );
+  background-color: blueviolet;
     
   }
 h1{
     
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
